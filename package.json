@@ -1,0 +1,29 @@
+{
+  "name": "node-lf-passbook",
+  "version": "0.1.0",
+  "description": "iOS Passbook for the Node hacker",
+  "main": "./lib/index.js",
+  "bin": {
+    "node-passbook": "./bin/node-passbook"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "babel": "^5.8.38",
+    "cli": "0.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iOS",
+    "apple",
+    "passbook",
+    "library"
+  ],
+  "author": {
+    "name": "lufeng",
+    "email": "lufeng@tuniu.com"
+  },
+  "license": "MIT"
+}
