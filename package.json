@@ -1,6 +1,6 @@
 {
   "name": "node-lf-passbook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "iOS Passbook for the Node hacker",
   "main": "./lib/index.js",
   "bin": {
